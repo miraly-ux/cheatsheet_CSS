@@ -1,0 +1,18 @@
+p {
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-color: darkgrey;
+}
+h1{
+    color:darkred
+}
+h2{
+    color:red
+}
+div{
+    width: 20px;
+    padding: 50px;
+    box-sizing: border-box;
+}
